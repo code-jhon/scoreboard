@@ -2,8 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Scoreboard App
 
-![Scoreboard App](scoreboard-app.png)
-
 The Scoreboard App is a simple web application built to keep track of scores for different teams or players. It's a versatile tool that can be used for various games and sports. This README will guide you on how to set up, run, and use the scoreboard app.
 
 ## Features
